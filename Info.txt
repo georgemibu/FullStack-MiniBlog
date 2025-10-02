@@ -1,4 +1,4 @@
-🔹 Proyecto 2: Mini blog con comentarios
+Mini blog con comentarios
 
 Tablas:
 
@@ -7,8 +7,6 @@ users (usuarios/autores)
 posts (entradas de blog)
 
 comments (comentarios asociados a posts, de parte de un usuario)
-
-Desafío extra:
 
 Manejar relaciones uno a muchos (un post tiene muchos comentarios).
 
